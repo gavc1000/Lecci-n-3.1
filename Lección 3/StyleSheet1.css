@@ -1,0 +1,22 @@
+﻿.Compañia{
+    color:aqua;
+    font-size: 20px;
+}
+
+.Persona{
+    color: red;
+    font-size: 20px;
+}
+
+.Lugares{
+    color: green;
+    font-size:20px;
+}
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align:justify;
+}
+.Espacio {
+    margin-bottom: 10px;
+}
